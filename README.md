@@ -4,7 +4,6 @@ This project is aimed at detecting and recognizing Indian Sign Language (ISL) ge
 ![All gestures covered by project](images/allGestures.png)
 
 ### Requirements
-
 To run this project, you will need the following dependencies:
 
 - Python 3.6 or higher
