@@ -78,3 +78,4 @@ The following improvements can be made to the project:
 - Implement a feature to convert the recognized gestures into text or speech.
 - Make the program more user-friendly by adding a GUI.
 
+Project By- Ananya Vajpayee
