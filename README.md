@@ -1,4 +1,4 @@
-## Indian Sign Language Detection using Mediapipe
+## Project - Indian Sign Language Detection using Mediapipe
 
 This project is aimed at detecting and recognizing Indian Sign Language (ISL) gestures using the Mediapipe library. The project is implemented in Python.
 ![All gestures covered by project](images/allGestures.png)
