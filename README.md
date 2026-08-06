@@ -67,9 +67,7 @@ During execution, the program uses the webcam to capture video frames, applies t
 ![example image 2](images/example2.png)
 
 ### Future Improvements
-
 The following improvements can be made to the project:
-
 - Expand the dataset to include more examples of each ISL gesture to improve the accuracy of the classification model.
 - Implement a more sophisticated model architecture, such as a convolutional neural network (CNN), to improve the accuracy of the classification model.
 - Add support for more ISL gestures.
