@@ -5,7 +5,6 @@ This project is aimed at detecting and recognizing Indian Sign Language (ISL) ge
 
 ### Requirements
 To run this project, you will need the following dependencies:
-
 - Python 3.6 or higher
 - Mediapipe library
 - OpenCV library
