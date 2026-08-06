@@ -11,7 +11,6 @@ To run this project, you will need the following dependencies:
 - Numpy library
 
 ### Installation
-
 1. Install Python 3.6 or higher on your system.
 2. Install the Mediapipe library using the following command:
 
