@@ -31,11 +31,8 @@ To run this project, you will need the following dependencies:
    ```
 
 ### Usage
-
 1. Clone the repository to your local machine.
-
 2. Open the command prompt and navigate to the cloned directory.
-
 3. Run the following command to start the program:
 
    ```
@@ -43,7 +40,6 @@ To run this project, you will need the following dependencies:
    ```
 
 4. The program will start and display the video stream from the webcam.
-
 5. To exit the program, press the 'q' key.
 
 ### How it works
