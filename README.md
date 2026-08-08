@@ -49,7 +49,6 @@ During execution, the program uses the webcam to capture video frames, applies t
 ![Process image](images/process.png)
 
 ## File Descriptions
-
 - `isl_detection.py`: This file is the main python file for real-time ISL detection.
 - `dataset_keypoint_generation.py`: This file converts [ISL kaggle image dataset](https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl) to 42 landmarks.
 - `keypoint.csv`: This file contains the 42 landmarks for all images.
